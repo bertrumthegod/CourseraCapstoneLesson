@@ -1,0 +1,29 @@
+TABLE OF CONTENTS : 
+1. BATTLE OF THE NEIGHBORHOODS 
+2. PROBLEM DESCRIPTION
+3. GOAL 
+4. AIMED AUDIENCE
+5. INFORMATION
+6. CONCLUSION 
+
+### BATTLE OF NEIGHBORHOODS
+this notebook includes the problem statement and introduction for coursera's capstone project 
+
+### problem description:
+
+the provided capstone project problem statement has the following scenario. a person who lives in the eastern side of toronto, canada, lives in a neighborhood that they find perfect, filled with all ideal amenities but the person gets a job opening on the other side of the city. therefore they would have to move to a different neighborhood. they will try to find similarity between their current neighborhood, and other neighborhoods
+
+### Goal : 
+the goal of this project is to examine and group the neighborhoods of toronto and acquire necessary information. grouping will help us find what neighboorhoods are similar to our home neighboorhood, so we can choose if we would like to move there
+
+### aimed audience : 
+
+this exampled scenario can be meaningful for someone who is looking for similar neighborhoods like their current neighborhoods
+
+#### information : 
+the following link is toronto's postal codes in a wikipedia page : https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+and here are the coordinates of the postal codes of toronto : http://cocl.us/Geospatial_data
+
+### Conclusion : 
+in conclusion after examining and grouping the data of nearby toronto neighborhoods, they are more informed on their options, and know their options to decide what neighborhood would best fit them
